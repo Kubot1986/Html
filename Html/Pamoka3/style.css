@@ -1,0 +1,31 @@
+header {
+    text-align: center;
+}
+header img {
+    max-height: 100px;
+}
+nav {
+    background-color: green;
+    padding: 10px 0;
+   }
+nav a {
+    color: honeydew;
+    text-decoration: none;
+    margin: 0 20px;
+}
+section img {
+    width: 100%;
+    }
+section.grey-block  {
+    color: white;
+    background-color: grey;
+  
+}
+main {
+    padding: 20px;
+    background: grey;
+}
+section.green-block  {
+    color: white;
+    background-color: green;
+    }

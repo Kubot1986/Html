@@ -1,0 +1,84 @@
+.black {
+  background-color: black;
+}
+.txtwhite {
+  color: white;
+}
+.imgalign {
+  display: block;
+  width: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 30px;
+}
+.padding {
+  padding-right: 20%;
+  padding-left: 20%;
+}
+.backyelow {
+  display: flex;
+  width: 60%;
+  background-color: rgb(136, 136, 34);
+  list-style-type: none;
+  margin-right: auto;
+  margin-left: auto;
+  justify-content: flex-end;
+}
+.padding2 {
+  padding: 2%;
+}
+.width60 {
+  display: flex;
+  width: 60%;
+  background-color: white;
+}
+.buttonalign {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2%;
+  width: 20%;
+  background-color: red;
+  text-decoration-line: underline;
+  color: white;
+  border: 10px solid red;
+  border-radius: 10px;
+}
+.width60b {
+  display: flex;
+  width: 60%;
+  background-color: blue;
+}
+.tablealign {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  background-color: blue;
+  color: white;
+}
+td,
+th {
+  border: 5px solid red;
+}
+table {
+  border-collapse: collapse;
+}
+.textalignright {
+  text-align: right;
+}
+.txtwhite {
+  color: white;
+}
+.marginblue {
+  margin: 0px;
+}
+.paddingtop2 {
+  padding-top: 2%;
+}
+.paddingbot2 {
+  padding-bottom: 2%;
+}
+.width100 {
+  width: 100%;
+}

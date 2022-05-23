@@ -1,0 +1,48 @@
+.main {
+  border: 3px solid #eee;
+  margin: 10px 20px 10px 20px;
+  text-align: center;
+  padding: 20px;
+  width: 600px;
+}
+
+input,
+button {
+  width: 70%;
+  padding: 5px;
+  margin: 5px;
+}
+.fb {
+  width: 30px;
+}
+.span {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  text-decoration-line: none;
+  padding: 10px;
+}
+.padding {
+  padding: 5px;
+  text-decoration-line: none;
+}
+.par {
+  border: 3px solid #eee;
+  margin: 10px 20px 10px 20px;
+  text-align: center;
+  padding: 20px;
+}
+footer {
+  text-align: center;
+  margin: 10px 20px 10px 20px;
+  justify-content: center;
+  width: 600px;
+}
+.img {
+  width: 200px;
+}
+.foot {
+  display: inline-block;
+  width: 600;
+  text-align: center;
+}

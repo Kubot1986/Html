@@ -1,0 +1,85 @@
+.flex {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+.txtcentered {
+    text-align: center;
+    }
+.txtalignjustify {
+    text-align: justify;
+       }
+.txtalignlastcenter {
+    text-align-last: center;
+   }
+.txtwhite{
+    color: white;
+}
+.read {
+    padding: 20px;
+    background-color: rgb(83, 80, 80);
+    border: 2px solid white;
+    width: 100%;
+    color: white;
+    position: relative;
+    top: 30px;
+    
+
+}
+.back {
+    background-image: url(https://thumbs.dreamstime.com/z/html-website-structure-programmer-typing-new-lines-html-code-html-website-structure-programmer-typing-new-lines-html-code-104566060.jpg);
+    height: 240px;
+
+}
+.twocolumns {
+    column-count: 2;
+    
+}
+.mygtukas{
+   padding: 20px; 
+   background-color: #333;
+   border: 2px solid #666;
+   color: white;
+   width: 160;
+   height: 85;
+   
+}
+.mygtukas:hover {
+    background-color: white;
+    color: #333;
+}
+.backgroundcolor333{
+    background-color: rgb(165, 165, 165);
+}
+.imgclass{
+    width: 100%;
+}
+.flexrow {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    align-items: center;
+}
+.marginright{
+    margin-right: 20px;
+    color: #333;
+}
+.bakckgroundwhite{
+    background-color: white;
+}
+#section4{
+    flex-direction: column;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    height: 100vh;
+}
+#section5{
+
+}
+.widthhalf{
+    width: 50%;
+}
+.marginauto{
+    margin:auto
+}
