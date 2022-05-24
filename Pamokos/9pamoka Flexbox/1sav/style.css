@@ -1,0 +1,63 @@
+header {
+  display: flex;
+  padding: 1px;
+  background-color: rgb(74, 134, 14);
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+header div a {
+  text-decoration-line: none;
+  padding-left: 60px;
+}
+header img {
+  max-width: 40%;
+  width: 150px;
+}
+main div p img {
+  width: 300px;
+  max-width: 40%;
+  padding-right: 10px;
+}
+main {
+  display: flex;
+  justify-content: center;
+  flex-basis: auto;
+  background-color: white;
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.pad {
+  padding: 20px;
+}
+footer {
+  text-align: center;
+}
+.button {
+  background-color: rgb(74, 134, 14);
+  color: white;
+  padding: 15px;
+}
+.buttonright {
+  display: flex;
+  justify-content: flex-end;
+}
+.float {
+  float: left;
+}
+body {
+  background-color: rgb(225, 225, 235);
+  margin: auto;
+}
+.padding {
+  padding-right: 30px;
+}
+footer {
+  padding: 20px;
+}
+p {
+  text-align: justify;
+}

@@ -1,0 +1,31 @@
+.iki_logo {
+  max-width: 50px;
+}
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+div a {
+  padding-right: 15px;
+}
+main {
+  background-image: url(./images/banana.jpeg);
+  padding-top: 3%;
+  padding-bottom: 3%;
+  width: 80%;
+  display: block;
+  margin: auto;
+}
+section {
+  width: 80%;
+  display: block;
+  margin: auto;
+  background-color: aliceblue;
+  padding: 15px;
+}
+section p img {
+  width: 40%;
+  padding: 5px;
+  max-width: 300px;
+}
