@@ -12,6 +12,9 @@ header div a {
   text-decoration-line: none;
   padding-left: 60px;
 }
+header div a:hover {
+  text-decoration-line: underline;
+}
 header img {
   max-width: 40%;
   width: 150px;

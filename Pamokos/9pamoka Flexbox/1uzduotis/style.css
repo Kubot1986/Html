@@ -1,10 +1,13 @@
 .iki_logo {
   max-width: 50px;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 header {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
+  align-items: center;
 }
 div a {
   padding-right: 15px;
@@ -18,8 +21,9 @@ main {
   margin: auto;
 }
 section {
-  width: 80%;
-  display: block;
+  width: 70%;
+  display: flex;
+  flex-direction: column;
   margin: auto;
   background-color: aliceblue;
   padding: 15px;
@@ -28,4 +32,46 @@ section p img {
   width: 40%;
   padding: 5px;
   max-width: 300px;
+}
+.float {
+  float: left;
+}
+footer {
+  text-align: center;
+  padding: 10px;
+}
+.green {
+  color: green;
+}
+form {
+  display: flex;
+  flex-direction: column;
+}
+button {
+  display: flex;
+  justify-content: center;
+  width: 50%;
+  background-color: green;
+  color: white;
+  padding: 10px;
+  margin-top: 5px;
+}
+input {
+  margin-bottom: 10px;
+}
+.lentele {
+  display: flex;
+  justify-content: space-around;
+}
+ul {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+li {
+  list-style-type: none;
+  padding: 5px;
+}
+li:first-child {
+  font-weight: bold;
 }
