@@ -23,6 +23,7 @@ button {
   display: flex;
   flex-direction: column;
   flex-basis: 600px;
+  flex: 1 0 280px;
 }
 p {
   font-size: x-large;
@@ -42,6 +43,7 @@ p {
 body {
   display: flex;
   flex-basis: 100%;
+  flex-wrap: wrap;
 }
 h1 {
   text-align: center;
