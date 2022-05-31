@@ -1,0 +1,103 @@
+.flex {
+  display: flex;
+}
+.container1 {
+  display: flex;
+  flex-direction: column;
+  background-color: grey;
+  color: white;
+  width: 100%;
+  justify-content: flex-start;
+  align-items: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+h1 {
+  border-bottom: 2px solid black;
+}
+.width80 {
+  display: flex;
+  width: 80%;
+  justify-content: center;
+  align-items: center;
+}
+.butt {
+  background-color: gray;
+  border: 3px solid white;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: nowrap;
+}
+.flexbox {
+  justify-content: flex-start;
+}
+.width50 {
+  width: 50%;
+}
+.width20 {
+  width: 20%;
+}
+.padding20 {
+  padding: 20px;
+}
+.paddingtop0 {
+  padding-top: 0px;
+  margin-top: 0px;
+}
+.width220 {
+  width: 220px;
+}
+.container2 {
+  display: flex;
+}
+.spalva1 {
+  background-color: rgb(27, 112, 182);
+  color: white;
+  padding: 50px;
+  width: 40%;
+}
+.spalva2 {
+  background-color: rgba(106, 61, 148, 0.788);
+  color: white;
+  padding: 50px;
+  width: 60%;
+}
+.borderbot {
+  border-bottom: 1px solid white;
+  width: 200px;
+}
+.paddingleft0 {
+  padding-left: 0px;
+}
+.container3 {
+  display: flex;
+}
+.spalva3 {
+  background-color: rgb(216, 46, 68);
+  color: white;
+  padding: 50px;
+  width: 60%;
+}
+.spalva4 {
+  background-color: rgba(240, 136, 38, 0.788);
+  color: white;
+  padding: 50px;
+  width: 40%;
+}
+
+.container4 {
+  display: flex;
+}
+.spalva5 {
+  background-color: rgb(241, 130, 145);
+  color: white;
+  padding: 50px;
+  width: 40%;
+}
+.spalva6 {
+  background-color: rgba(96, 204, 69, 0.788);
+  color: white;
+  padding: 50px;
+  width: 60%;
+}
