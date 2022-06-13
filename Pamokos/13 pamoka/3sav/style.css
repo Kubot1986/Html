@@ -1,0 +1,208 @@
+.nav1 {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: nowrap;
+}
+
+.nav2 {
+  display: flex;
+  justify-content: flex-end;
+  padding: 1rem;
+  gap: 1rem;
+}
+header {
+  background-color: rgb(184, 130, 30);
+  min-width: 600px;
+}
+nav a {
+  display: flex;
+  text-decoration-line: none;
+  font-weight: bold;
+  color: rgb(211, 203, 157);
+}
+nav a:hover {
+  color: white;
+}
+.wallpaper {
+  background-color: rgba(255, 230, 0, 0.507);
+  padding: 2rem;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+.sleep {
+  width: 100%;
+}
+.gridas {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+
+.room1 {
+  background-image: url(./img/1.jpeg);
+  background-size: cover;
+  aspect-ratio: 2/1;
+  width: fit-content;
+  height: fit-content;
+  background-position: center;
+  border: 1rem solid burlywood;
+  margin-top: 1rem;
+  font-weight: bold;
+  font-size: 2rem;
+  text-align: right;
+  color: rgba(150, 105, 10, 0.918);
+}
+.room1:hover {
+  background-image: url(./img/1.jpeg);
+  opacity: 0.7;
+  background-size: cover;
+  aspect-ratio: 2/1;
+  width: fit-content;
+  height: fit-content;
+  background-position: center;
+  border: 1rem solid burlywood;
+  margin-top: 1rem;
+  font-weight: bold;
+  font-size: 2rem;
+  text-align: right;
+  color: rgba(150, 105, 10, 0.918);
+}
+.room2 {
+  background-image: url(./img/2.jpeg);
+  background-size: cover;
+  aspect-ratio: 2/1;
+  width: fit-content;
+  height: fit-content;
+  background-position: center;
+  border: 1rem solid burlywood;
+  margin-top: 1rem;
+  font-weight: bold;
+  font-size: 2rem;
+  text-align: right;
+  color: rgba(150, 105, 10, 0.918);
+}
+.room2:hover {
+  background-image: url(./img/2.jpeg);
+  background-size: cover;
+  opacity: 0.7;
+  aspect-ratio: 2/1;
+  width: fit-content;
+  height: fit-content;
+  background-position: center;
+  border: 1rem solid burlywood;
+  margin-top: 1rem;
+  font-weight: bold;
+  font-size: 2rem;
+  text-align: right;
+  color: rgba(150, 105, 10, 0.918);
+}
+.room3 {
+  background-image: url(./img/3.jpeg);
+  background-size: cover;
+  aspect-ratio: 2/1;
+  width: fit-content;
+  height: fit-content;
+  background-position: center;
+  border: 1rem solid burlywood;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  font-weight: bold;
+  font-size: 2rem;
+  text-align: right;
+  color: rgba(150, 105, 10, 0.918);
+}
+.room3:hover {
+  background-image: url(./img/3.jpeg);
+  background-size: cover;
+  opacity: 0.7;
+  aspect-ratio: 2/1;
+  width: fit-content;
+  height: fit-content;
+  background-position: center;
+  border: 1rem solid burlywood;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  font-weight: bold;
+  font-size: 2rem;
+  text-align: right;
+  color: rgba(150, 105, 10, 0.918);
+}
+.room4 {
+  background-image: url(./img/4.jpeg);
+  background-size: cover;
+  aspect-ratio: 2/1;
+  width: fit-content;
+  height: fit-content;
+  background-position: center;
+  border: 1rem solid burlywood;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  font-weight: bold;
+  font-size: 2rem;
+  text-align: right;
+  color: rgba(150, 105, 10, 0.918);
+}
+.room4:hover {
+  background-image: url(./img/4.jpeg);
+  background-size: cover;
+  opacity: 0.7;
+  aspect-ratio: 2/1;
+  width: fit-content;
+  height: fit-content;
+  background-position: center;
+  border: 1rem solid burlywood;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  font-weight: bold;
+  font-size: 2rem;
+  text-align: right;
+  color: rgba(150, 105, 10, 0.918);
+}
+.price {
+  padding: 2rem;
+}
+.paraghraph {
+  border: 1px solid black;
+}
+.pirmas {
+  background-color: bisque;
+  border-radius: 0.5rem;
+  border: 1px solid bisque;
+}
+body {
+  min-width: fit-content;
+}
+.hosts {
+}
+.nuotrauka {
+  width: 200px;
+  margin-right: 10px;
+}
+.bot {
+  margin: 2rem;
+  margin-bottom: 0;
+}
+.floatl {
+  float: left;
+}
+.gridas2 {
+  grid-row-start: 2;
+  grid-column-start: 2;
+}
+.background3 {
+  background-color: rgb(201, 148, 83);
+  margin-top: 0;
+}
+footer {
+  text-align: center;
+  font-size: small;
+  padding: 0.5rem;
+  background-color: rgba(196, 65, 65, 0.808);
+}
+.padding2 {
+  padding: 0.5rem;
+}
+.paddingbot1 {
+  padding-bottom: 1rem;
+}
