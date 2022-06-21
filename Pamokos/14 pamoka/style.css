@@ -19,7 +19,7 @@ div.top a:last-of-type {
   padding-bottom: 1rem;
 }
 .botback {
-  background-color: rgb(99, 97, 97);
+  background-color: rgb(202, 199, 199);
   padding-top: 0.25rem;
   padding-bottom: 0.25rem;
 }
@@ -39,7 +39,7 @@ div.top a:last-of-type {
 li {
   text-align: left;
   list-style: none;
-  border-bottom: 1px solid grey;
+  border-bottom: 1px solid black;
 }
 .lists {
   display: grid;
@@ -78,17 +78,28 @@ li {
 }
 @media screen and (min-width: 768px) {
   .top {
+    width: 100vw;
     display: flex;
     flex-direction: row;
-    justify-content: flex-end;
+    justify-content: space-around;
   }
   div.top a:last-of-type {
     padding-bottom: 0;
+    padding-left: 2rem;
+    padding-right: 2rem;
   }
-  a {
-    justify-self: flex-end;
-  }
+
   img {
-    justify-self: start;
+    margin-right: auto;
+    padding-left: 2rem;
   }
+  .bot {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
 }
